@@ -57,7 +57,7 @@ Currently learning web development, Java programming, databases, and Artificial 
 
 ## 📫 Connect With Me
 
-- 🐙 GitHub: [@Ayyub24-tech](https://github.com/Ayyub24-tech)
+- 🐙 GitHub: [@yubbyubb134-lang](https://github.com/yubbyubb134-lang)
 
 ---
 
